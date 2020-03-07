@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/socle-sifast-springboot-configuration/socle-sifast-springboot-configuration.iml" filepath="$PROJECT_DIR$/socle-sifast-springboot-configuration/socle-sifast-springboot-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socle-sifast-springboot-persistence/socle-sifast-springboot-persistence.iml" filepath="$PROJECT_DIR$/socle-sifast-springboot-persistence/socle-sifast-springboot-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socle-sifast-springboot-service/socle-sifast-springboot-service.iml" filepath="$PROJECT_DIR$/socle-sifast-springboot-service/socle-sifast-springboot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socle-sifast-springboot-web/socle-sifast-springboot-web.iml" filepath="$PROJECT_DIR$/socle-sifast-springboot-web/socle-sifast-springboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/socle-spring-boot-technical-test.iml" filepath="$PROJECT_DIR$/.idea/socle-spring-boot-technical-test.iml" />
+    </modules>
+  </component>
+</project>
